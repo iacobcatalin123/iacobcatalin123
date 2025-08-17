@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I’m Catalin
 
-<!--
-**iacobcatalin123/iacobcatalin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 Cybersecurity Engineer — Product Security, AppSec & Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- Started in **pentesting & vuln research**, now focused on **Product Security**
+- Prefer **guardrails over gatekeeping**: SDLC checks, policy-as-code, useful tooling
+- Curious about **AI in security** (where it helps, where it breaks things)
+- Build side projects in **FiveM** (MDT, garage/vehicle systems, phone apps)
+
+---
+
+## What I’m working on
+- AppSec guardrails in CI/CD that devs actually keep on  
+- Automating security scans & lightweight reporting  
+- Researching AI-assisted pentesting  
+
+---
+
+## Toolbox
+**Security:** Burp Suite · Semgrep · Snyk · Fortra · internal tooling  
+**Automation / DevSecOps:** GitHub Actions · CI/CD pipelines · scripting · platform-specific guardrails  
+**Policy / Cloud:** AWS (SCP, Config, GuardDuty)  
+
+---
+
+## Connect
+🔗 [linkedin.com/in/iacob-catalin123](https://www.linkedin.com/in/iacob-catalin123/)  
